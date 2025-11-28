@@ -27,7 +27,7 @@ class Calculator {
     }
 }
 
-public class program-1 {
+public class program1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
