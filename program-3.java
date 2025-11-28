@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program-3 {
+public class program3 {
     public static void main(String[] args) {
         System.out.println("Enter number:");
         Scanner sin =new Scanner(System.in);
