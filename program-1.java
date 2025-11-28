@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 class Calculator {
-
     public double calculate(double a, double b, String operation) {
         switch (operation.toLowerCase()) {
             case "add":
@@ -26,7 +24,6 @@ class Calculator {
         }
     }
 }
-
 public class program1 {
     public static void main(String[] args) {
 
